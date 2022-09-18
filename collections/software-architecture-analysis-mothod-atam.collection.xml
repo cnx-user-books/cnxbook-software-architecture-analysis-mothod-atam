@@ -1,0 +1,16 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Quý Nguyễn">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10789</md:content-id>
+    <md:title>Software architecture analysis mothod - ATAM</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>f21aac4a-47ab-4911-9788-bf5bdafe329b</md:uuid>
+<md:slug>software-architecture-analysis-mothod-atam</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>ATAM</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
